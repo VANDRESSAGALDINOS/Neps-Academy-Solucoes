@@ -1,5 +1,5 @@
 # Soluções de Exercícios - Neps Academy
-Bem-vindo(a) ao repositório de soluções de exercícios do site Neps Academy! Aqui você encontrará minhas soluções para diversos problemas de programação oferecidos pela plataforma.
+Bem-vindo(a) ao repositório de soluções de exercícios do site Neps Academy! Aqui você encontrará minhas soluções para diversos problemas de programação oferecidos pela plataforma e posiveis videos explicativos.
 
 # Neps-Academy-Solucoes
 Este repositório foi criado com o objetivo de armazenar e compartilhar minhas resoluções dos exercícios de programação disponíveis no Neps Academy
